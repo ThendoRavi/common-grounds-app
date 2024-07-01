@@ -6,11 +6,16 @@ Welcome to CommonGrounds Residential Management! This project is designed to ass
 
 ## Table of Contents
 
+- [Demo Account](#demo)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Installation and Running](#installation-and-running)
 - [Environment Variables](#environment-variables)
 - [License](#license)
+
+## Demo Details
+
+Placeholder
 
 ## Prerequisites
 
@@ -54,7 +59,8 @@ Follow these steps to install the project dependencies and start the development
 
 ## Environment Variables
 
-The project utilizes a `.env` file for local testing that contains necessary secrets and environment variables. For security reasons, this `.env` file will be provided separately through a Moodle submission. After cloning the repository, download the `.env` file from Moodle and place it in the root directory of the project.
+The project utilizes a `.env` file for local testing that contains necessary secrets and environment variables. Please contact me further for access.
+
 
 
 ---
