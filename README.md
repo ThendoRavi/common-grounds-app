@@ -18,18 +18,17 @@ Welcome to CommonGrounds Residential Management! This project is designed to ass
 
 One of each user type is provided below.
 
-Admin account:
-admin@test.com
-Test*12345
+- **Admin account:**
+  - Email: admin@test.com
+  - Password: Test*12345
 
-Staff account:
-staff@test.com
-Test*12345
+- **Staff account:**
+  - Email: staff@test.com
+  - Password: Test*12345
 
-Resident account:
-resident@test.com
-Test*12345
-
+- **Resident account:**
+  - Email: resident@test.com
+  - Password: Test*12345
 
 ## Prerequisites
 
