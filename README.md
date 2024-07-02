@@ -6,14 +6,15 @@ Welcome to CommonGrounds Residential Management! This project is designed to ass
 
 ## Table of Contents
 
-- [Demo Account](#demo)
+- [Demo Accounts](#demo-accounts)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Installation and Running](#installation-and-running)
 - [Environment Variables](#environment-variables)
 - [License](#license)
 
-## Demo Details
+
+## Demo Accounts
 
 One of each user type is provided below.
 
