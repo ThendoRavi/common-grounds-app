@@ -15,7 +15,20 @@ Welcome to CommonGrounds Residential Management! This project is designed to ass
 
 ## Demo Details
 
-Placeholder
+One of each user type is provided below.
+
+Admin account:
+admin@test.com
+Test*12345
+
+Staff account:
+staff@test.com
+Test*12345
+
+Resident account:
+resident@test.com
+Test*12345
+
 
 ## Prerequisites
 
